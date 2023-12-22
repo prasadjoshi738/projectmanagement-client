@@ -1,0 +1,8 @@
+.btn1:hover{background-color: rgb(249, 248, 248);color: rgb(49, 236, 17);}
+.btn2:hover{color: rgb(249, 246, 244);background-color: rgb(250, 26, 26);}
+.user:hover{background-color: rgb(20, 213, 239);border: 0.1px solid rgb(20, 213, 239);color:white}
+.users:hover{border: 0.1px solid rgb(20, 213, 239);}
+.deletebtn:hover{cursor: pointer;}
+.stat:hover{ border: 3px solid ;cursor: pointer;}
+.stat{ width: 190px;height: 80px;cursor: pointer;border-radius: 20px;}
+.icon1:hover{cursor:pointer;}

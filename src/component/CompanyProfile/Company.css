@@ -1,0 +1,10 @@
+.initialbtn{margin: 10px 4px;display: inline-block;text-align: center;text-decoration: solid;;
+    color: rgb(31, 12, 238);width: 100px;background-color: rgb(246, 246, 246);border-radius: 50px;border: 2px solid rgb(141, 70, 34);
+}
+.initialbtn:hover{background-color: rgb(31, 12, 238);color: rgb(246, 246, 246)}
+
+.reginput{border: 1px solid rgb(120, 219, 252);}
+
+.newreg:hover{color: rgb(247, 247, 247);background-color: aqua;}
+.newregs:hover{color: rgba(172, 158, 158, 0.933);background-color: aqua;}
+.quairy:hover{color: red;}

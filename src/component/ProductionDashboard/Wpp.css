@@ -1,0 +1,8 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;}
+.tablefont{font-size:small}
+th{top: 0;}
+td{left: 1;}
+.lab{width: 100px;margin: 8px;}
+.labbtn{width: 60px;border-radius: 50px;}
